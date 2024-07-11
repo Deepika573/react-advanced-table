@@ -15,11 +15,11 @@ Technologies Used
 - CSS: Styling components and ensuring responsiveness across different screen sizes.
 
 Getting Started
-1. Clone the repository:
-2. Install dependencies:
-3. npm install
-4. Run the application
-5. Open in your browser
+- Clone the repository:
+- Install dependencies:
+- npm install
+- Run the application
+- Open in your browser
    
 Additional Notes:
 - Ensure FontAwesome icons are properly imported and integrated into the project for sorting functionality.
